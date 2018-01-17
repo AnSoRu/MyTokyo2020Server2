@@ -14,7 +14,7 @@ Se trata simplemente de un servicio web implementado con Servlets de Java para p
  - **Lenguaje**: Java
  - **IDE**: Eclipse EE
  - **Herramienta de construcción y gestión de proyectos**: Apache Maven
- - **Librerías de SQL para Java (java.sql)
+ - **Librerías de SQL para Java (java.sql)**
  - **Libreria de conversión a formato JSON**: FlexJson v3.3
 
 ## Contribuciones
